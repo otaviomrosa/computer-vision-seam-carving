@@ -43,7 +43,7 @@ To run this project on your own images, follow these steps:
 
 3.  **Run the Script**: Execute the script from your terminal:
     ```bash
-    python your_script_name.py
+    python seam-carving.py
     ```
 The script will process the images as defined and save the resized outputs to the same directory.
 
